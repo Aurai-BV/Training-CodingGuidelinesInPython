@@ -6,10 +6,10 @@ Training materials for the training Coding Guidelines in Python.
 Tooling:
 - Python
 
-*Assignment 1*
+_Assignment 1_
 Refactor some code files from this repository.
 https://github.com/sobolevn/python-code-disasters/tree/master/python
 
-*Assignment 2*
+_Assignment 2_
 Homework: find some of your own code files that you want to refactor.
 Refactor your own code files. Send a before/after snapshot (either files, or a version control repository) to the trainer. The trainer reviews the refactoring and gives feedback after the training.
